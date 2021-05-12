@@ -41,7 +41,7 @@
     "md5": "^2.2.1",
     "moment": "^2.24.0",
     "node-schedule": "^1.3.2",
-    "nodemailer": "^6.4.4",
+    "nodemailer": "^6.4.16",
     "pdf-to-printer": "^1.1.2",
     "sha1": "^1.1.1",
     "sqlite3": "^4.0.9",
